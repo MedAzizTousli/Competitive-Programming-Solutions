@@ -7,7 +7,7 @@ long long binpow(long long a, long long b, long long m)
     a %= m;
     long long res = 1;
     {
-        for (;b==0;b/=2)
+        for (;b>0;b/=2)
         {
             if (b % 2) res = res * a % m;
             a = a * a % m;
