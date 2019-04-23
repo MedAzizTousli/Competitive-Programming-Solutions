@@ -8,7 +8,15 @@
 https://cp-algorithms.com/
 
 <h2> Repository Content </h2>
-<p> Thes repository contains solutions to these types of problems : </p>
+
+<p> The repository contains: </p>
+<ul>
+<li>  Problem Solving Summary </li>
+<li>  Typical Problems </li>
+<li>  Their Solutions </li>
+</ul>
+
+<p> Thes problems cover these areas: </p>
 <ul>
   <li> Algebra </li>
   <ul>
@@ -19,10 +27,3 @@ https://cp-algorithms.com/
   </ul>
 </ul>
 
-<p> And for every course, there is: </p>
-<ul>
-<li>  Course Summary </li>
-<li>  Course Certificate </li>
-<li>  Assignments </li>
-<li>  Mini Project </i>
-</ul>
