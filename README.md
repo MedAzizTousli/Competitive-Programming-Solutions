@@ -13,7 +13,7 @@ https://cp-algorithms.com/
 <ul>
 <li>  Problem Solving Summary </li>
 <li>  Typical Problems </li>
-<li>  Their Solutions </li>
+<li>  Typical Solutions </li>
 </ul>
 
 <p> Thes problems cover these areas: </p>
