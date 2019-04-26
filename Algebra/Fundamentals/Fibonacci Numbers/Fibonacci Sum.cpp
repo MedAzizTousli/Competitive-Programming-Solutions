@@ -45,35 +45,6 @@ void powerMatrix(ll a[2][2],ll n)
         }
     }
 }
-/*
-ll fib(ll n, ll m)
-{
-    ll s=0;
-
-    ll p[2][2]={{1,1},{1,0}};
-    ll ans[2][2]={{1,1},{1,0}};
-
-    powerMatrix(ans, n-2);
-
-    if (n==0)
-    {
-        n++;
-    }
-
-    if (n==1)
-    {
-        s+=1;
-        n++;
-    }
-
-    for (ll i=n; i<=m; i++)
-    {
-        multiply(ans, p);
-        s+=ans[0][0];
-    }
-
-    return s;
-}*/
 
 ll fib(ll n)
 {
