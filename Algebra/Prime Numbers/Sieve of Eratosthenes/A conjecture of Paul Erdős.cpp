@@ -28,7 +28,6 @@ int main()
                 }
     sort(primes.begin(),primes.end());
     cin >> T;
-    ll sz = primes.size();
     while(T--){
             scanf("%lld",&n);
 
