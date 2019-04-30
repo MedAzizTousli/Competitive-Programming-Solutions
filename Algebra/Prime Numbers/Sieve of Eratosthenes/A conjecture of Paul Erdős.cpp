@@ -18,7 +18,7 @@ bool is_prime(int n){
 int main()
 {
     ll T=0, n=0, s=0, j=0;
-    /*vector<bool> abc=sieve(MAX);*/ map<ll,ll> mp;
+    map<ll,ll> mp;
     vector<ll> primes;
     for(ll i = 1;i*i< MAX;++i)
             for(ll j = 1; j * j * j * j < MAX;++j)
