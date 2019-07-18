@@ -1,3 +1,5 @@
+// Submit here: http://www.spoj.com/problems/HS08PAUL/
+
 #include <bits/stdc++.h>
 #define ll unsigned long long
 #define MAX 10000000
