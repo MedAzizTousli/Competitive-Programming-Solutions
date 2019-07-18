@@ -1,3 +1,5 @@
+// Submit here: https://www.spoj.com/problems/MAIN74/
+
 #include <iostream>
 #define ll long long
 #define max 1000000007
