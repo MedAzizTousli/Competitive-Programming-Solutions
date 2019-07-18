@@ -1,3 +1,5 @@
+// Submit here: http://www.spoj.com/problems/ETF/
+
 #include <iostream>
 
 using namespace std;
