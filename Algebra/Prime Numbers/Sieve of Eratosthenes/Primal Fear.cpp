@@ -1,3 +1,5 @@
+// Submit here: http://www.spoj.com/problems/VECTAR8/
+
 #include <bits/stdc++.h>
 #define ll long
 #define MAX 1000000
