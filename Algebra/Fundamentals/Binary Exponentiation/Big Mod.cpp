@@ -1,3 +1,5 @@
+// Submit here: https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=310
+
 #include <bits/stdc++.h>
 
 using namespace std;
