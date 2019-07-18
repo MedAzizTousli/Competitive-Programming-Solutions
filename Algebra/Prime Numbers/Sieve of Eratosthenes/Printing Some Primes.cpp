@@ -1,3 +1,5 @@
+// Submit here: http://www.spoj.com/problems/TDPRIMES/
+
 #include <iostream>
 #include <vector>
 #define ll unsigned long long
