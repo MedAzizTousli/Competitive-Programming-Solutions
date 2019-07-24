@@ -9,9 +9,6 @@ int g (int n) {
  
 int main()
 { 
-    for (int i=0; i<16; i++)
-        cout << g(i) << endl;
-
     int n, m;
  
     scanf("%d", &n);
