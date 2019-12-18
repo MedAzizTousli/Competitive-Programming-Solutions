@@ -5,7 +5,11 @@
 
 <p> The repository contains solutions of problems from: </p>
 <ul>
-<li>  CodeForces </li>
-<li>  Spoj </li>
-<li>  ... </li>
+<li>  AtCoder </li>
+<li>  CodeChef </li>
+<li>  Codeforces </li>
+<li>  HackerRank </li>
+<li>  OnlineJudge </li>
+<li>  SPOJ </li>
+
 </ul>
