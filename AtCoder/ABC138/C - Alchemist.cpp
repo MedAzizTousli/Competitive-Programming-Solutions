@@ -13,7 +13,6 @@ int main() {
         cin >> a;
         v.push_back(a);
     }
-    int k=0;
     while (v.size() != 1)
     {
         float min1Index = min_element(v.begin(), v.end()) - v.begin();
@@ -27,7 +26,6 @@ int main() {
         float moy = (min1 + min2) / 2.0;
         v.push_back(moy);
     }
-    // cout << k;
     printf("%.5f", v[0]);
     return 0;
 }
