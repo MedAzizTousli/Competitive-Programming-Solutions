@@ -15,7 +15,6 @@ int main() {
         sort(s.begin(), s.end());
         sum+=m[s];
         m[s]++;
-        // sum+=m[s]++;
     }
     cout << sum;
     return 0;
