@@ -1,5 +1,3 @@
-// https://atcoder.jp/contests/abc133/tasks/abc133_c
-
 #include<bits/stdc++.h>
 using namespace std;
 #define ll long long
