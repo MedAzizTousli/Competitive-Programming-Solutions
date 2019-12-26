@@ -1,5 +1,3 @@
-// https://atcoder.jp/contests/abc139/tasks/abc139_b
-
 #include<bits/stdc++.h>
 using namespace std;
 
