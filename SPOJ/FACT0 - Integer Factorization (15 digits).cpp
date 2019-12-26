@@ -1,5 +1,3 @@
-// https://www.spoj.com/problems/FACT0/
-
 #include <bits/stdc++.h>
 
 using namespace std;

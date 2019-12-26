@@ -1,5 +1,3 @@
-// https://codeforces.com/problemsets/acmsguru/problem/99999/249
-
 #include<bits/stdc++.h> 
 using namespace std; 
  

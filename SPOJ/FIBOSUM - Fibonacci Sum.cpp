@@ -1,5 +1,3 @@
-// https://www.spoj.com/problems/FIBOSUM/
-
 #include <iostream>
 #define ll long long
 #define max 1000000007

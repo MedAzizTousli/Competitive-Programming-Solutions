@@ -1,5 +1,3 @@
-# https://codeforces.com/contest/633/problem/A
-
 #include <bits/stdc++.h>
 #define ever ;;
 using namespace std;

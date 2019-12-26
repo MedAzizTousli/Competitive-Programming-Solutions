@@ -1,5 +1,3 @@
-// https://www.hackerrank.com/contests/projecteuler/challenges/euler002/problem
-
 #include <bits/stdc++.h>
 #define ll long long
 

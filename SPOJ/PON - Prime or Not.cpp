@@ -1,5 +1,3 @@
-// https://www.spoj.com/problems/PON/
-
 #include <bits/stdc++.h>
 #define ll long long
 

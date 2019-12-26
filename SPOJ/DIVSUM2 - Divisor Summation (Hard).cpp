@@ -1,5 +1,3 @@
-// https://www.spoj.com/problems/DIVSUM2/
-
 #include <bits/stdc++.h>
 using namespace std;
 

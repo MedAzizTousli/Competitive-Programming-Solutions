@@ -1,5 +1,3 @@
-// https://www.spoj.com/problems/COMDIV/
-
 #include <bits/stdc++.h>
 using namespace std;
 
