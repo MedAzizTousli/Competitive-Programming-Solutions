@@ -4,7 +4,6 @@ using namespace std;
 
 int main() 
 {
-    // Sum of numbers from 1 to n = (n+1)*n/2
     int a,b;
     cin >> a >> b;
     int x = b-a, sum=0;
