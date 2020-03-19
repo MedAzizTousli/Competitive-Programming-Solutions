@@ -15,29 +15,19 @@ int main()
     {
         int n;
         cin >> n;
-        map<int, int> mp;
-        vector<int> v;
-        int a; cin >> a; v.push_back(a);
-        rep(i, 1, n)
-        {
-            int b;
-            cin >> b;
-            if (a != b)
-                v.push_back(b);
-            a = b;
-        }
+        vector<int> v(n);
+        rep(i, 0, n)
+            cin >> v[i];
         bool y = false;
-        rep(i, 0, v.size())
-        {
-            int x = v[i];
-            if (mp[x] == 0)
-                mp[x]++;
-            else 
+        rep(i, 0, n)
+            rep(j, i+2, n)
             {
-                if (mp.size() > 1)
+                if(v[i] == v[j])
+                {
                     y = true;
+                    break;
+                }
             }
-        }
         cout << (y?"YES":"NO") << "\n";
     }
     return 0;
