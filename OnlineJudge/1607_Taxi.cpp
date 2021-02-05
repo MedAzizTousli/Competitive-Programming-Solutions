@@ -7,25 +7,22 @@
 
 using namespace std;
 
-int binMod(int a, int b, int mod)
-{
-    int an = 1;
-    while (b != 0)
-    {
-        if ((b % 2) == 1)
-            an = (an * a) % mod;
-        a = (a * a) % mod;
-        b /= 2;
-    }
-    return an;
-}
-
 signed main()
 {
-    int b, p, m;
-    while(cin >> b >> p >> m)
+    int a, b, c, d;
+    cin >> a >> b >> c >> d;
+    while (a < c)
     {
-        cout << binMod(b, p, m) << endl;
+        if (a+b > c)
+        {
+            a = c;
+            break;
+        }
+        a += b;
+        if (c <= a)
+            break;
+        c -= d;
     }
+    cout << a;
     return 0;
 }
