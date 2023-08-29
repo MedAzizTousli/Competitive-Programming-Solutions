@@ -11,7 +11,6 @@ class Solution:
             test.append(rem)
         st = []
         res = 0
-        print(test)
         for i in test:
             if st != []:
                 if i > st[0]:
