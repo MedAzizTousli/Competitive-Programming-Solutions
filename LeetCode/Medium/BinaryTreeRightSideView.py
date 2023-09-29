@@ -18,4 +18,4 @@ class Solution:
                 if node.right: q.append(node.right)
                 if i == x-1:
                     l.append(node.val)
-        return l+
+        return l
